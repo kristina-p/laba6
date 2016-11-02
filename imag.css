@@ -1,0 +1,25 @@
+.image1
+{
+	z-index: 1;
+}
+
+.image2
+{
+	left: 120px; 
+	top: -50px; 
+	z-index: 2; 
+}
+
+.image3
+{	
+	left: 180px; 
+	top: -100px; 
+	z-index: 3;
+}
+.card IMG 
+{
+ position: relative;
+	border: 6px solid  #0B3B39 ;
+	height:220px;
+
+ }

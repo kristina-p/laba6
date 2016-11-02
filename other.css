@@ -1,0 +1,25 @@
+  BODY {
+     background-image: url(10.jpg);
+	 }
+
+TABLE {
+	background-origin: content-box; 
+	height:600px;
+	width: 1000px;
+	position: relative;
+	z-index: 1;
+}
+
+.text
+{   
+	text-indent: 1.5em;
+    text-align: unset; 
+    column-rule: 2px solid #0B3B39 ;
+    column-count: 2;
+    column-width: 400px;
+    text-shadow: 1px 1px 1px  white;
+	font-size: 16px;
+	font-family: cursive;
+	color: #0B3B39;
+}
+
