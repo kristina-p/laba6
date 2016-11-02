@@ -14,12 +14,12 @@ TABLE {
 {   
 	text-indent: 1.5em;
     text-align: unset; 
-    column-rule: 2px solid #0B3B39 ;
+    column-rule: 2px solid #6E6E6E ;
     column-count: 2;
     column-width: 400px;
     text-shadow: 1px 1px 1px  white;
-	font-size: 16px;
-	font-family: cursive;
-	color: #0B3B39;
+	font-size: 20px;
+	font-family: monospace;
+	color: #6E6E6E;
 }
 
