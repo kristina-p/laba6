@@ -8,18 +8,19 @@ TABLE {
 	width: 1000px;
 	position: relative;
 	z-index: 1;
+	text-align: center;
 }
 
 .text
 {   
 	text-indent: 1.5em;
     text-align: unset; 
-    column-rule: 2px solid #6E6E6E ;
+    column-rule: 2px solid #453E6B ;
     column-count: 2;
     column-width: 400px;
     text-shadow: 1px 1px 1px  white;
-	font-size: 20px;
-	font-family: monospace;
-	color: #6E6E6E;
+	font-size: 13px;
+	font-family: cursive;
+	color: #453E6B;
 }
 
